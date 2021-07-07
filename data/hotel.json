@@ -1,0 +1,13 @@
+[
+    {
+        "id":1,
+        "name": "Sun Park Resort",
+        "city": "manali",
+        "city_id":2,
+        "rating":4.5,
+        "image" :"",
+        "address" : "",
+        "phone" :76767676767
+
+    }
+]
